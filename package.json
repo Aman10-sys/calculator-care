@@ -1,0 +1,19 @@
+{
+  "name": "calculator-care",
+  "version": "1.0.0",
+  "description": "This is testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aman10-sys/calculator-care.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aman10-sys/calculator-care/issues"
+  },
+  "homepage": "https://github.com/Aman10-sys/calculator-care#readme"
+}
