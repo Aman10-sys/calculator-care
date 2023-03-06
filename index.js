@@ -1,8 +1,6 @@
-function Calculator_care(string) {
-    var x 
-    var y 
-    var data = x + y 
-   return data;
+function Calculator_care() {
+    
+    return data = x + y ;
 }
 
 module.exports = Calculator_care
